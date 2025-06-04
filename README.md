@@ -2,7 +2,7 @@
 make dir files and path struct to a formatted object json file
 
 ```bash
-$ cargo
+$ cargo build
 $ cargo run
 ```
 
