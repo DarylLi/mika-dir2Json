@@ -1,5 +1,6 @@
 # mika-dir2Json
 make dir files and path struct to a formatted object json file
+
 让本地文件、目录结构以json化对象文件进行输出
 
 ```bash
